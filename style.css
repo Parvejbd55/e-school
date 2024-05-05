@@ -1,0 +1,126 @@
+.background{
+    background-color: #e8f5e8;
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 100px;
+}
+.container{
+    margin-bottom: 80px;
+}
+.padding{
+    padding-top: 15px;
+}
+
+.logo img {
+    height: 120%;
+    width: 200px;
+}
+
+.header-menu ul {
+    color: #070707;
+    padding: 0;
+    list-style: none;
+    font-size: 16px;
+}
+
+.header-menu li a {text-decoration: none;}
+
+.header-menu li {
+    display: inline-block;
+    padding: 8px 15px;
+}
+
+.homescreen-left{
+    padding-right: 160px;
+}
+.homescreen-left h1 span{
+    color: #12a166;
+}
+.homescreen-left h1{
+    font-size: 54px;
+}
+.homescreen-left h6{
+    color: rgb(204, 21, 21);
+}
+.button{
+    background-image: linear-gradient(to bottom, #3cf1a6 0%, #0a5f07 100%);
+    color: white;
+    border: none;
+    padding: 9px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.images img{ 
+    height: 100%;
+    width: 500px;
+}
+.topic1 .topic2 .topic3 .topic4{
+    border: none;
+    border-radius: 10px;
+    background-color: #74d374;
+}
+.cart:hover{
+    box-shadow: 0 10px 10px 10px lightgray;
+    background-color: #fff;
+}
+.cart img{
+    height: 180px;
+    width: 150px;
+    padding: 25px;
+    margin-left: 50%;
+    transform: translate(-75px, 0px);
+}
+
+.card-body{
+    text-align: center;
+}
+.cart{
+    border-radius: 10px;
+    background-color: rgb(226, 247, 230);
+    transition: .3s;
+    padding: 20px;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+.card img{
+    height: 99%;
+    width: 99%;
+    padding: 16px;
+}
+.down-immages img{
+    height: 100px;
+    width: 100px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.paragrph p{
+    margin-top: 30px;
+}
+.bg{
+    background-color: rgb(33, 27, 37);
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    padding: 40px 0;
+    line-height: 28px;
+    margin: 5px;
+}
+.foot-same ul li {
+    list-style: none;
+    font-size: 18px;
+}
+
+.foot-same ul {
+    margin: 0;
+    padding: 0;
+}
+.end-text p {
+    padding: 0 20px;font-size: 18px;
+}
+footer{
+    text-align: center;
+}
+
